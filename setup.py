@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='django-entegrator2',
+    name='django-entegrator',
     version='0.1',
     packages=['entegrator'],
     description='Entegrator',
